@@ -59,6 +59,7 @@ Exchanges with support for Lightning Network
 
 - [Spendl](https://getspendl.com/) <--Browser extension (Chrome)
 - [Link Node Gift Card](https://www.lngiftcard.com/)
+- [Instant Visa Prepaid Cards](https://paywithmoon.com/) <--Browser extension (Chrome)
 
 **Lightning Network Wallets**
 
